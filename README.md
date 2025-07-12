@@ -1,5 +1,5 @@
 # Dual-Microcontroller-Based-Door-Locker-Security-System-Using-Password-Authentication
-# **Standard Embedded Diploma - Final Project**
+## **Standard Embedded Diploma - Final Project**
 
 ## Project Overview:
 This smart door control system is designed with two microcontrollers, one acting as the
